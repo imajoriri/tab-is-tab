@@ -1,0 +1,26 @@
+
+body {
+  width: 200px;
+}
+#root-fav-icon {
+  width: 100%;
+}
+
+#redirect-to-root {
+  width: 100%;
+  margin-bottom: 10px;
+  font-size: 15px;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #668ad8;
+  color: #FFF;
+  border-radius: 3px;
+}
+
+#add-to-tab {
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: hsla(0, 100%, 60%, 1);
+  color: #FFF;
+  border-radius: 3px;
+}
