@@ -1,6 +1,6 @@
 {
-  "name": "My Scraper",
-  "description": "scraping test",
+  "name": "Tab is tab",
+  "description": "for browser tab problem",
   "version": "0.0.1",
   "manifest_version": 2,
   "browser_action": {
